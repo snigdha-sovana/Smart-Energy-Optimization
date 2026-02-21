@@ -1,0 +1,38 @@
+body {
+    background-color: #121212;
+    font-family: "Trebuchet MS", sans-serif;
+}
+
+.app-title {
+    color: #19E2C5;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.subtitle {
+    color: #aaa;
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.sidebar {
+    background-color: #1E1E1E;
+    padding: 20px;
+    border-radius: 10px;
+    min-height: 100vh;
+}
+
+.main-panel {
+    padding: 20px;
+}
+
+.Select-control {
+    background-color: #ffffff !important;  
+    color: #000000 !important;            
+}
+
+.Select-menu-outer {
+    background-color: #ffffff !important;  
+    color: #000000 !important;             
+}
